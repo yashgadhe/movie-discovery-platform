@@ -1,5 +1,7 @@
 # Movie Discovery & Recommendation Platform
 
+https://movie-discovery-platform-ruby.vercel.app/
+
 A React movie discovery application with search, filters, and an optional real-time REST API integration.
 
 ## Features
